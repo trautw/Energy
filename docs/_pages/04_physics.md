@@ -30,6 +30,11 @@ The forces are: (https://www.clearias.com/four-fundamental-forces-of-nature/)
 
 | Source | Utility        | Force           | Problem  |
 | --- | ------------- |:-------------:| -----:|
-| Fossile | Coal/Gas/Oil Plant | Electromagnetic, Chemical | finite resource (100 years), creates CO2  |
+| earth reserve, Fossile | Coal/Gas/Oil Plant | Electromagnetic, Chemical | finite resource (100 years), creates CO2  |
 | energy from other sources | pumped storage hydro power station | -  | not a primary source |
-| solar heat | Wind turbine | nuclear fusion | not on demand |
+| extroplanetar, solar heat | Wind turbine | nuclear fusion -> heat -> wind | not on demand |
+| extroplanetar, solar heat | hydro power | nuclear fusion -Y heat -> water vapor -> rain -> gravity | not in all regions |
+| extroplanetar, light | solar power plant | Electromagnetic, Light | large areas needed, not on demand |
+| | current uran fission nuclear power plant | | nuclear waste, desasters |
+| |fusion nuclear power plant | | not working yet, expensive |
+
