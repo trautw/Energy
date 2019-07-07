@@ -3,4 +3,4 @@ layout: default
 overview: true
 ---
 
-Thoughts abaout energy by Christoph Trautwein
+Thoughts about energy by Christoph Trautwein
