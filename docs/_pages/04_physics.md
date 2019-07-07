@@ -7,6 +7,7 @@ permalink: /physics/
 # What is energy?
 Energy is the ability to do work
 
+Since electrical energy is being transported to every household and can be converted to a force or heat so easily we focus on generating electrical energy.
 
 # Properties of energy
 Energy cannot be created or destroyed. But it can be transformed into different forms like kinetical or potential energy.
@@ -20,10 +21,10 @@ Force: interaction between two objects. A force is a vector quantity: its has a 
 The forces are: (https://www.clearias.com/four-fundamental-forces-of-nature/)
  The weak and strong forces are effective only over a very short range and dominate only at the level of subatomic particles. Gravity and Electromagnetic force have infinite range. 
 
-- Gravitation (gives potential energy)
+- Gravity (gives potential energy)
 - Electromagnetic force (gives chemical energy)
-- Weak and
-- strong forces (gives nuclear energy)
+- Weak force
+- Strong force
 
 https://media.clearias.com/file/Four-Fundamental-Forces.gif
 
