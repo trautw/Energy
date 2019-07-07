@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dieses Auto
-permalink: /object/
+title: Motivation
+permalink: /motivation/
 ---
 
 Enery is important
