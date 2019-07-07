@@ -26,5 +26,10 @@ The forces are: (https://www.clearias.com/four-fundamental-forces-of-nature/)
 - Weak force
 - Strong force
 
-https://media.clearias.com/file/Four-Fundamental-Forces.gif
+![alt text](https://media.clearias.com/file/Four-Fundamental-Forces.gif "Four Fundamental Forces")
 
+| Source | Utility        | Force           | Problem  |
+| --- | ------------- |:-------------:| -----:|
+| Fossile | Coal/Gas/Oil Plant | Electromagnetic, Chemical | finite resource (100 years), creates CO2  |
+| energy from other sources | pumped storage hydro power station | -  | not a primary source |
+| solar heat | Wind turbine | nuclear fusion | not on demand |
